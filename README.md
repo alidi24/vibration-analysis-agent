@@ -43,7 +43,8 @@ and compute time-domain statistics."
 
 ## Links
 
-- **Kaggle**: [View Notebook](https://www.kaggle.com/code/alidibaj21/vibrationagent-a-data-scientist-assistant)
+- **Kaggle Notebook**: [View Notebook](https://www.kaggle.com/code/alidibaj21/vibrationagent-a-data-scientist-assistant)
+- **Kaggle Competion Writeup**: [Read Writeup](https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/vibrationagent-a-multi-agent-analyst-for-wind-tur) 
 
 ## License
 
