@@ -49,6 +49,3 @@ and compute time-domain statistics."
 
 Apache License 2.0
 
----
-
-*Developed as a capstone project for AI Agents Intensive Course with Google*
